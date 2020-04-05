@@ -46,7 +46,7 @@ print(time3)
 
 
 
-print("Нисходящие ДП")
+print("Нисходящее ДП")
 test4 = """
 n = int(35)
 ndp = {0: 0, 1: 1}
@@ -62,7 +62,7 @@ print(time4)
 
 
 
-print("Восходящие ДП")
+print("Восходящее ДП")
 test5 = """
 n = int(35)
 def VDP(n):
